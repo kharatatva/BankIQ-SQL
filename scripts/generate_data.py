@@ -1,3 +1,13 @@
+# ──────────────────────────────────────────────────────────────────────────────
+#  BankIQ — Database Seeder
+#  Author  : Tatva V. Khara
+#  Project : BankIQ-SQL (github.com/yourusername/BankIQ-SQL)
+#  Purpose : Generates realistic Indian retail banking data using Faker
+#  Usage   : python generate_data.py --customers 500 --txns 30 --reset
+# ──────────────────────────────────────────────────────────────────────────────
+
+
+
 """
 seed.py — Bank System Database Seeder (MySQL)
 ===============================================
