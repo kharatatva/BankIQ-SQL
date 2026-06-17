@@ -36,6 +36,7 @@ BankIQ/
 │
 ├── README.md                  ← You are here
 ├── FINDINGS.md                ← Analyst findings report with real insights
+├── .env.example               ← Example env file for generate_data connection with database 
 ├── 01_schema.sql              ← CREATE TABLE for all 12 tables with constraints
 ├── 02_seed_data.sql           ← Original seed data (30 customers, 60 transactions)
 ├── 03_queries.sql             ← 40 SQL tasks across 7 progressive phases
